@@ -1,0 +1,18 @@
+[
+  {
+    "role": "WEB3 Club CO-Founder",
+    "organisation": "WEB3",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Stock/Crypto reccomendation app", "Used Ai & ML (Tensorflow, Keras)", "Reduced Reaserch times by 60%"],
+    "imageSrc": "history/DvWeb3Logo.jpeg"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Social Media App",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Used react, bootstrap, and tailwind for front end", "Used Mongo DB for back end"],
+    "imageSrc": "history/microsoft.png"
+  }
+]

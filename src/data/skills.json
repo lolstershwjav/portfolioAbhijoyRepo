@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/pythonLogo.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "tensorflow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "API & AJAX",
+    "imageSrc": "skills/apiImage.png"
+  },
+    {
+    "title": "Physics Engine",
+    "imageSrc": "skills/physicsLightbulb.png"
+  }
+
+]
